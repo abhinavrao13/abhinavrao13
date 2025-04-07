@@ -6,6 +6,7 @@
 ## 🧠 About Me:
 🎓 I'm a student passionate about **programming**, **automation**, and **problem-solving**.
 
+✨ - (Portfolio)[https://portfolio-six-eta-49.vercel.app/]
 
 ## 🔗 Socials:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)  
