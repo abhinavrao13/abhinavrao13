@@ -6,11 +6,11 @@
 ## 🧠 About Me:
 🎓 I'm a student passionate about **programming**, **automation**, and **problem-solving**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-six-eta-49.vercel.app/)
 
-## 🔗 Socials:
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+## 🔗 Socials & Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-six-eta-49.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-rao-7ab09b340)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raoabhinav13)
 
 
 ## 💻 Tech Stack:
