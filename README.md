@@ -6,13 +6,11 @@
 ## 🧠 About Me:
 🎓 I'm a student passionate about **programming**, **automation**, and **problem-solving**.
 
----
 
 ## 🔗 Socials:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
----
 
 ## 💻 Tech Stack:
 
