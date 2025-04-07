@@ -17,18 +17,13 @@
 ## 💻 Tech Stack:
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 
 ### Web & Frameworks
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
